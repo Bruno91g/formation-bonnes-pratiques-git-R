@@ -10,7 +10,7 @@ toc: false
 
 ## Formation aux bonnes pratiques avec `Git` et `R`
 
-Formation construite à l'__Insee__, déclinée en deux versions: une version allégée (une journée) et la version complète (deux jours).
+Formation co-construite à l'__Insee__, déclinée en deux versions: une version allégée (une journée) et la version complète (deux jours).
 
 Tous les supports sont sur le [`Github InseeFrLab`](https://github.com/InseeFrLab/formation-bonnes-pratiques-git-R)
 <br>
